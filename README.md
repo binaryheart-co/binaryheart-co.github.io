@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to BinaryHeart!
 
-You can use the [editor on GitHub](https://github.com/binaryheart-co/binaryheart-co.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+BinaryHeart is a student organization whose objective is to ```spread Digital Access.``` We collect donations of broken or used electronic devices and repair them. Through Northwestern Settlement and other partner charities, the devices are donated to help our less privileged peers. Our hope is that our work will lift people out of poverty, make higher education a reality for more students, and change lives.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Donate
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/binaryheart-co/binaryheart-co.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We pick up any devices located near the Chicagoland area, free of charge. Just fill out this [form](https://binaryheart.org/pickup-form/), and we will contact you shortly.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Do you live outside of our coverage, but breathe our cause? Set up a chapter at your local high school! Check out our [alumni network](https://binaryheart.org/alumni) or [contact us](mailto:contact@binaryheart.org). We appreciate your cordiality!
