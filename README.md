@@ -1,4 +1,4 @@
-## Welcome to BinaryHeart!
+## Welcome to <span style="color:red">Binary</span>Heart!
 
 BinaryHeart is a student organization whose objective is to ```spread Digital Access.``` We collect donations of broken or used electronic devices and repair them. Through Northwestern Settlement and other partner charities, the devices are donated to help our less privileged peers. Our hope is that our work will lift people out of poverty, make higher education a reality for more students, and change lives.
 
