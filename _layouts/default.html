@@ -19,19 +19,19 @@
 
   <div class="wrapper">
     <header>
-      <img src="https://binaryheart.org/wp-content/uploads/2016/07/binaryHeartLogo160.png" alt="BinaryHeart" />
+      <center><img src="https://binaryheart.org/wp-content/uploads/2016/07/binaryHeartLogo160.png" alt="BinaryHeart" /></center>
     </header>
     <div id="container">
       <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
       <div id="main" role="main">
         <div class="download-bar">
-        <div class="inner">
+        <center><div class="inner">
           {% if site.show_downloads %}
           <a href="{{ site.github.tar_url }}" class="download-button tar"><span>Download</span></a>
           <a href="{{ site.github.zip_url }}" class="download-button zip"><span>Download</span></a>
           {% endif %}
-          <a href="https://github.com/binaryheart-co/bh-inventory" class="code" text-align="center">BinaryHeart's open-source inventory solution</a>
-        </div>
+          <a href="https://github.com/binaryheart-co/bh-inventory" class="code">BinaryHeart's open-source inventory solution</a>
+        </div></center>
         <span class="blc"></span><span class="trc"></span>
         </div>
         <article class="markdown-body">
@@ -46,7 +46,7 @@
       {% endif %}
       
       {% if site.github.is_user_page %}
-      <p><a href="{{ site.github.owner_url }}" class="avatar"><img src="https://binaryheart.org/wp-content/uploads/2016/07/binaryHeartFavicon32.png" width="48" height="48"></a>Navigate to our <a href="https://binaryheart.org">main site</a>.</p>
+      <p><a href="{{ site.github.owner_url }}" class="avatar"><img src="https://binaryheart.org/wp-content/uploads/2016/07/binaryHeartFavicon32.png"></a>Navigate to our <a href="https://binaryheart.org">main site</a>.</p>
       {% endif %}
       </div>
     </footer>
